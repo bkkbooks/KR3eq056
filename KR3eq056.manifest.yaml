@@ -1,0 +1,96 @@
+canonical_identifier: bkk:krp/KR3eq056/v1
+canonical_location: https://kanripo.org/bkk/KR3eq056/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 建殊錄
+  identifiers:
+    krp: KR3eq056
+  tags:
+    kr-categories: KR3eq
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq056.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq056_000.yaml, hash: 'sha256:2c03b5a191438621ee0da1e05ea8afac40def2658a9a7b6ea6d6cd5ba00f13c4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq056_000.markers.yaml, hash: 'sha256:59ef9ae6645ddeaf1374e42a200052eb79a8cb7565ffa50f5a5a487f38c9e796'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq056_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 629
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq056_jc_000-d3.h1s1
+    span:
+    - front
+    - 629
+    - 800
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq056_jc_000-d4.h1s1
+    span:
+    - front
+    - 800
+    - 1289
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq056_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 725
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq056_jc_000-d6.h1s1
+    span:
+    - body
+    - 725
+    - 7042
+  label: 正文
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq056_jc_000-d7.h1s1
+    span:
+    - body
+    - 7042
+    - 9579
+  label: 附錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq056_jc_000-d7d22
+    span:
+    - body
+    - 8376
+    - 9579
+  label: 東洞先生答鶴臺先生書
+  type: section
+  level: 2
+hash: sha256:a52ab3cabb512fd619015eb8ad440740774fc7aa8059325f086f7c3618be8a5d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
