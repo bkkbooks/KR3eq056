@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eq056_000.yaml, hash: 'sha256:60e4984070f0b07081a65db5264a863d2f4edef7746706017a6e2095233bcd22'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq056_000.markers.yaml, hash: 'sha256:047841d994c9421558af9d5650af2f2dc40f73876509f3691757513105f65732'}
+  - {seq: 0, role: markers, filename: assets/KR3eq056_000.markers.yaml, hash: 'sha256:e2ef17c8acacc4ed745206d8c4fb6ade38c95c158cbbf1de99ba6cc19b3ab6f0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -90,7 +90,7 @@ table_of_contents:
   label: 東洞先生答鶴臺先生書
   type: section
   level: 2
-hash: sha256:afdc199c843fdc4f7517c0ab5a74be2a902fa29ac07db400259fb451c4dea884
+hash: sha256:68e347fe614a5e7169d32ae908d9dc7e0f1d81ef5ccd643d023a33355fae310b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

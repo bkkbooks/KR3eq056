@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eq056_000-jc.yaml, hash: 'sha256:4731bd31f58276d7d087e529dc9e01ed2e4354ddcfbe14583026bec7419390c0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq056_000-jc.markers.yaml, hash: 'sha256:1660fd1490be64a929e77857fbb446aa82fadf8fc7bce8ebbce2e3a7054cfd8f'}
+  - {seq: 0, role: markers, filename: assets/KR3eq056_000-jc.markers.yaml, hash: 'sha256:e8d59f9da15666a029c205e3029e8e62f0f4b91a363d93051cd7aeabd9afe0d7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -90,4 +90,4 @@ table_of_contents:
   label: 東洞先生答鶴臺先生書
   type: section
   level: 2
-hash: sha256:b8d59bbaadd0772ce03af4be6940d5df3630383fa3e2ec34a8e1d79675b9b39d
+hash: sha256:03eb5e5e5bdc2a94ac3fbfa80d13eb4c9a5f2418903b8b339ddcc9278504816d
